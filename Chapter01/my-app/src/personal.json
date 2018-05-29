@@ -1,0 +1,92 @@
+{
+    "people": [
+        {
+            "id": 1,
+            "firstName": "Rafael",
+            "lastName": "Cevallos",
+            "cohort": "Cohort 25 Gif/Emoji Master and Code Peon",
+            "school": "Nashville Software School",
+            "address": {
+                "street": "1602 Gauntlet Way",
+                "city": "Ca$hville",
+                "state": "TN"
+            },
+            "car": {
+                "year": "2015",
+                "make": "Honda",
+                "model": "Prius"
+            },
+            "animal": {
+                "species": "Red Panda",
+                "name": "Randy",
+                "breed": "some kind of furry thing"
+            }
+        },
+        {
+            "id": 2,
+            "firstName": "Roshelle",
+            "lastName": "McCanterizer",
+            "cohort": "Cohort 210",
+            "school": "Nashville Software School",
+            "address": {
+                "street": "2200 Canyon Blvd",
+                "city": "Boulder",
+                "state": "CO"
+            },
+            "car": {
+                "year": "2030",
+                "make": "Ford",
+                "model": "Raptor"
+            },
+            "animal": {
+                "species": "Emu",
+                "name": "Emudaba",
+                "breed": "some freak bird thing"
+            }
+        },
+        {
+            "id": 3,
+            "firstName": "Poopy",
+            "lastName": "McPooperton",
+            "cohort": "Cohort 28 Poop Master",
+            "school": "Nashville Software School",
+            "address": {
+                "street": "5100 Hershey Way",
+                "city": "Hershey",
+                "state": "PA"
+            },
+            "car": {
+                "year": "2027",
+                "make": "Tesla",
+                "model": "Shocker"
+            },
+            "animal": {
+                "species": "Pangolin",
+                "name": "Peter",
+                "breed": "some kind of alien cat armadillo thing"
+            }
+        },
+        {
+            "id": 4,
+            "firstName": "Doug",
+            "lastName": "Ijustcanterton",
+            "cohort": "Cohort 36 Grunt",
+            "school": "Nashville Software School",
+            "address": {
+                "street": "644 Mount Hood DR",
+                "city": "Boston",
+                "state": "MA"
+            },
+            "car": {
+                "year": "1995",
+                "make": "Geo",
+                "model": "Metro"
+            },
+            "animal": {
+                "species": "Cat",
+                "name": "Butthole",
+                "breed": "a bastard of a feline"
+            }
+        }
+        ]
+    }

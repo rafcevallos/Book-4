@@ -1,12 +1,20 @@
 import React, { Component } from 'react';
+
 class Home extends Component {
-    render() {
-      return (  
-      <section className="App-intro">
-        <h4> 1602 Tra La La Lane </h4>
-      </section>
-      );
+  constructor(props) {
+    super(props)
+
+    state = {
+      home: "1602 Gauntlet Way"
     }
   }
+  render() {
+    return (
+      <section className="App-intro">
+        <h4>{this.state.home}</h4>
+      </section>
+    );
+  }
+}
 
-  export default Home;
+export default Home;

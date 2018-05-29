@@ -1,0 +1,27 @@
+.mainNavigation {
+    background-color: lightseagreen;
+    color: tomato;
+    padding: 10px;
+}
+
+.mainNavigation > a:link, a:visited {
+    margin: 0 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    border: 2px solid black;
+}
+
+a:link, a:visited {
+    display: block; 
+    padding: 15px 60px;
+    background-color: lightsalmon;
+    color: Black;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+  }
+  a:hover, a:active {
+    background-color: yellowgreen;
+    color: darkmagenta;
+    font-weight: bolder;
+  }
