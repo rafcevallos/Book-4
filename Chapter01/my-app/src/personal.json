@@ -88,5 +88,35 @@
                 "breed": "a bastard of a feline"
             }
         }
-        ]
-    }
+    ],
+    "project": [
+        {
+            "id": 1,
+            "peopleId": 1,
+            "name": "Intelligence Report",
+            "description": "HTML/CSS",
+            "link": "https://github.com/nss-day-cohort-25/intelligence-report-drunk-elephants"
+        },
+        {
+            "id": 2,
+            "peopleId": 1,
+            "name": "The Librarian",
+            "description": "Database Creation/Objects",
+            "link": "https://github.com/nss-day-cohort-25/the-librarian-rough-snails"
+        },
+        {
+            "id": 3,
+            "peopleId": 1,
+            "name": "The Task Tracker",
+            "description": "Creating a task master akin to the one found on GitHub",
+            "link": "https://github.com/Cloistered-Bears/The-Task-Tracker"
+        },
+        {
+            "id": 4,
+            "peopleId": 1,
+            "name": "Nutshell",
+            "description": "Creating site akin to Facebook",
+            "link": "https://github.com/nss-resolute-partridges/nutshell"
+        }
+    ]
+}   
